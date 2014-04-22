@@ -1,0 +1,13 @@
+syntax on
+set sw=4
+set ts=8
+set smartindent
+set modeline
+set ls=4
+set ruler
+set wmnu
+set ignorecase
+set ruler
+set ru
+filetype indent plugin on
+colors elflord
